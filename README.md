@@ -1,4 +1,4 @@
-# Explainable AI Loan/Credit Risk Approval System with Bias Audit
+ # Explainable AI Loan/Credit Risk Approval System with Bias Audit
 
 An AI-based loan approval system that predicts credit risk, explains
 each prediction using SHAP, and audits the model for fairness across
